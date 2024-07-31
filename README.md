@@ -38,5 +38,6 @@ This lecture will cover:
 * Policy and society discussion: uncertainties in projections of sea level rise -- communicating, policy implications
 
 The demo shows:
+* an example of a process based model used to understand how melting takes place in grounding zones
 
 All the code, lecture notes and slides used here are available under a CC BY-SA license. 
