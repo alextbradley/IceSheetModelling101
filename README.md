@@ -26,7 +26,7 @@ This lecture will cover:
 The demo shows:
 * an example of the marine ice sheet instability using a low(er) complexity flowline model
 * the benefits and drawbacks of such
-* how 
+* how the conditions under which a tipping point may be passed are affected by physical conditions
 
 ## Lecture 3: Process based models and uncertainties in ice sheet model projections
 This lecture will cover:
