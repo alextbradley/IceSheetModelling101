@@ -39,5 +39,6 @@ This lecture will cover:
 
 The demo shows:
 * an example of a process based model used to understand how melting takes place in grounding zones
+(note that this demo is in the form of a Binder Notebook, which facilitates interactivity, found [here](https://mybinder.org/v2/gh/fonsp/pluto-on-binder/v0.19.12?urlpath=pluto/open?url=https%253A%252F%252Fhub-binder.mybinder.ovh%252Fuser%252Ffonsp-pluto-on-binder-mu2l1zrx%252Fpluto%252Fedit%253Fid%253Dabe110c4-4406-11ed-22ae-97396431b636%2526token%253DQLfepOwJR8-Wa-X49ATUrA))
 
 All the code, lecture notes and slides used here are available under a CC BY-SA license. 
